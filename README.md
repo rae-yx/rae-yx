@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rae (Tan Yu Xuan)!  
 🌱 I’m currently in the final year of my Bachelor's Degree in Software Engineering  
 👀 I’m mainly interested in UI/UX design, Web Development, Game Development, App Development  
-📚 Skills: HTML, CSS, PHP, Java, Scala, Python, Kotlin, SQL  
+📚 Skills: Java, Scala, Python, Kotlin, SQL, HTML, CSS, PHP    
 🤓 Self Learning in Progress: C++  
 💬 Languages I Speak: English, Chinese, Malay  
 📫 [Linkedin](https://www.linkedin.com/in/yu-xuan-tan-128097315/)  
